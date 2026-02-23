@@ -1,0 +1,6 @@
+PyGithub
+google-generativeai
+python-dotenv
+pydantic
+requests
+tqdm

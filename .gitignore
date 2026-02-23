@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Environment secrets
+.env
+
+# SQLite database (runtime generated)
+scout.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Test/debug scripts
+test_*.py
+debug_*.py
+demo_*.py
+benchmark_*.py
+get_chat_id.py
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
