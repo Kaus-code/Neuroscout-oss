@@ -48,3 +48,6 @@ AutoIssueScrapper/
 ├── .env.example      # 📝 TEMPLATE: Guide for setting up environment variables.
 ├── requirements.txt  # 📦 THE TOOLBOX: Essential Python libraries.
 └── run.bat           # ⚡ SHORTCUT: One-click Windows setup and execution.
+```
+
+
